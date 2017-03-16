@@ -1,6 +1,8 @@
-var a = 55;
-var b = 60;
-var impartire = a/b;
-
 console.log(impartire);
 
+var a = 5;
+var b = 5;
+
+var impartire = a / b;
+
+console.log(impartire);
